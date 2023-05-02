@@ -1,0 +1,92 @@
+,director_name,duration,gross,movie_title,title_year,country,budget,imdb_score,movie_facebook_likes,Genero_0,Genero_1,Genero_2,Genero_3,Genero_4,Actor_0,Actor_1,Actor_2
+0,Martin Scorsese,200,116866727.0,The Wolf of Wall Street,2013,USA,100000000.0,8.2,138000,Biography,Comedy,Crime,Drama,sin_genero,Leonardo DiCaprio,Matthew McConaughey,Jon Favreau
+1,Shane Black,195,408992272.0,Iron Man 3,2013,USA,200000000.0,7.2,95000,Action,Adventure,Sci-Fi,sin_genero,sin_genero,Robert Downey Jr.,Jon Favreau,Don Cheadle
+2,Quentin Tarantino,187,54116191.0,The Hateful Eight,2015,USA,44000000.0,7.9,114000,Crime,Drama,Mystery,Thriller,Western,Craig Stark,Jennifer Jason Leigh,Zoë Bell
+3,Kenneth Lonergan,186,46495.0,Margaret,2011,usa,14000000.0,6.5,0,Drama,sin_genero,sin_genero,sin_genero,sin_genero,Matt Damon,Kieran Culkin,John Gallagher Jr.
+4,Peter Jackson,186,258355354.0,The Hobbit: The Desolation of Smaug,2013,USA,225000000.0,7.9,83000,Adventure,Fantasy,sin_genero,sin_genero,sin_genero,Aidan Turner,Adam Brown,James Nesbitt
+5,sin_director,183,330249062.0,Batman v Superman: Dawn of Justice,2016,USA,250000000.0,6.9,197000,Action,Adventure,Sci-Fi,sin_genero,sin_genero,Henry Cavill,Lauren Cohan,Alan D. Purwin
+6,Peter Jackson,169,303001229.0,The Hobbit: An Unexpected Journey,2012,USA,180000000.0,7.9,166000,Adventure,Fantasy,sin_genero,sin_genero,sin_genero,Aidan Turner,Adam Brown,James Nesbitt
+7,Edward Hall,180,147788552.0,Restless,2012,UK,70000000.0,7.2,434,Drama,Romance,sin_genero,sin_genero,sin_genero,Rufus Sewell,Hayley Atwell,Charlotte Rampling
+8,Joss Whedon,173,623279547.0,The Avengers,2012,USA,220000000.0,8.1,123000,Action,Adventure,Sci-Fi,sin_genero,sin_genero,Chris Hemsworth,Robert Downey Jr.,Scarlett Johansson
+9,Tom Tykwer,172,27098580.0,Cloud Atlas,2012,Germany,102000000.0,7.5,124000,Drama,Sci-Fi,sin_genero,sin_genero,sin_genero,Tom Hanks,Jim Sturgess,Jim Broadbent
+10,Christopher Spencer,170,59696176.0,Son of God,2014,USA,22000000.0,5.6,15000,sin_genre,sin_genero,sin_genero,sin_genero,sin_genero,Roma Downey,Amber Rose Revah,Darwin Shaw
+11,Christopher Nolan,169,187991439.0,Interstellar,2014,USA,165000000.0,8.6,60772,Adventure,Drama,Sci-Fi,sin_genero,sin_genero,Matthew McConaughey,Anne Hathaway,Mackenzie Foy
+12,F. Gary Gray,167,161029270.0,Straight Outta Compton,2015,USA,28000000.0,7.9,76000,Biography,Crime,Drama,History,Music,Aldis Hodge,Neil Brown Jr.,R. Marcos Taylor
+13,Richard Linklater,165,25359200.0,Boyhood,2014,USA,4000000.0,8.0,92000,Drama,sin_genero,sin_genero,sin_genero,sin_genero,Ellar Coltrane,Lorelei Linklater,Libby Villari
+14,Quentin Tarantino,165,162804648.0,Django Unchained,2012,USA,100000000.0,8.5,199000,Drama,Western,sin_genero,sin_genero,sin_genero,Leonardo DiCaprio,Christoph Waltz,Ato Essandoh
+15,Michael Bay,165,245428137.0,Transformers: Age of Extinction,2014,USA,210000000.0,5.7,56000,Action,Adventure,Sci-Fi,sin_genero,sin_genero,Bingbing Li,Sophia Myles,Kelsey Grammer
+16,Christopher Nolan,164,448130642.0,The Dark Knight Rises,2012,USA,250000000.0,8.5,164000,Action,Thriller,sin_genero,sin_genero,sin_genero,Tom Hardy,Christian Bale,Joseph Gordon-Levitt
+17,Peter Jackson,164,255108370.0,The Hobbit: The Battle of the Five Armies,2014,New Zealand,250000000.0,7.5,65000,Adventure,Fantasy,sin_genero,sin_genero,sin_genero,Aidan Turner,Adam Brown,James Nesbitt
+18,Tom Hooper,158,148775460.0,Les Misérables,2012,USA,61000000.0,7.6,144000,Drama,Musical,Romance,sin_genero,sin_genero,Hugh Jackman,Eddie Redmayne,Anne Hathaway
+19,Kathryn Bigelow,157,95720716.0,Zero Dark Thirty,2012,USA,40000000.0,7.4,39000,Drama,History,Thriller,sin_genero,sin_genero,Jennifer Ehle,Harold Perrineau,Parker Sawyers
+20,Ridley Scott,156,105219735.0,Robin Hood,2010,USA,200000000.0,6.7,17000,Action,Adventure,Drama,History,sin_genero,Mark Addy,William Hurt,Scott Grimes
+21,sin_director,156,183635922.0,The Revenant,2015,USA,135000000.0,8.1,190000,Adventure,Drama,Thriller,Western,sin_genero,Leonardo DiCaprio,Tom Hardy,Lukas Haas
+22,Michael Bay,154,352358779.0,Transformers: Dark of the Moon,2011,USA,195000000.0,6.3,46000,Action,Adventure,Sci-Fi,sin_genero,sin_genero,Glenn Morshower,Lester Speight,Kevin Dunn
+23,Denis Villeneuve,153,60962878.0,Prisoners,2013,USA,46000000.0,8.1,86000,Crime,Drama,Mystery,Thriller,sin_genero,Hugh Jackman,Jake Gyllenhaal,Dylan Minnette
+24,Gnana Rajasekaran,153,147788552.0,Ramanujan,2014,India,70000000.0,7.0,58,Biography,Drama,History,sin_genero,sin_genero,Mani Bharathi,Michael Lieber,Kevin McGowan
+25,Marc Webb,153,262030663.0,The Amazing Spider-Man,2012,USA,230000000.0,7.0,56000,Action,Adventure,Fantasy,sin_genero,sin_genero,Emma Stone,Andrew Garfield,Chris Zylka
+26,Ridley Scott,150,65007045.0,Exodus: Gods and Kings,2014,UK,140000000.0,6.1,51000,Action,Adventure,Drama,sin_genero,sin_genero,Christian Bale,María Valverde,Ben Mendelsohn
+27,sin_director,150,182204440.0,Lincoln,2012,USA,65000000.0,7.4,71000,Biography,Drama,History,War,sin_genero,Joseph Gordon-Levitt,Hal Holbrook,Bruce McGill
+28,Mike Leigh,150,3958500.0,Mr. Turner,2014,UK,70000000.0,6.8,0,Biography,Drama,History,sin_genero,sin_genero,Lesley Manville,Ruth Sheen,Karl Johnson
+29,Gore Verbinski,149,89289910.0,The Lone Ranger,2013,USA,215000000.0,6.5,48000,Action,Adventure,Western,sin_genero,sin_genero,Johnny Depp,Ruth Wilson,Tom Wilkinson
+30,David Fincher,149,167735396.0,Gone Girl,2014,USA,61000000.0,8.1,146000,Crime,Drama,Mystery,Thriller,sin_genero,Patrick Fugit,Sela Ward,Emily Ratajkowski
+31,Bryan Singer,149,233914986.0,X-Men: Days of Future Past,2014,United States,200000000.0,8.0,82000,Action,Adventure,Fantasy,Sci-Fi,Thriller,Jennifer Lawrence,Peter Dinklage,Hugh Jackman
+32,Jay Oliva,148,147788552.0,"Batman: The Dark Knight Returns, Part 2",2013,USA,3500000.0,8.4,5000,Action,Animation,Crime,Sci-Fi,Thriller,Michael Emerson,Mark Valley,Grey Griffin
+33,Christopher Nolan,148,292568851.0,Inception,2010,USA,160000000.0,8.8,175000,Action,Adventure,Sci-Fi,Thriller,sin_genero,Leonardo DiCaprio,Tom Hardy,Joseph Gordon-Levitt
+34,Paul Thomas Anderson,148,8093318.0,Inherent Vice,2014,USA,20000000.0,6.7,18000,Comedy,Crime,Drama,Mystery,Romance,Martin Dew,Katherine Waterston,Serena Scott Thomas
+35,Sam Mendes,148,200074175.0,Spectre,2015,UK,245000000.0,6.8,85000,Action,Adventure,Thriller,sin_genero,sin_genero,Christoph Waltz,Rory Kinnear,Stephanie Sigman
+36,sin_director,147,407197282.0,Captain America: Civil War,2016,USA,250000000.0,8.2,72000,Action,Adventure,Sci-Fi,sin_genero,sin_genero,Robert Downey Jr.,Scarlett Johansson,Chris Evans
+37,Michael Patrick King,146,95328937.0,Sex and the City 2,2010,USA,100000000.0,4.3,0,Comedy,Drama,Romance,sin_genero,sin_genero,Chris Noth,Liza Minnelli,Kristin Davis
+38,Tate Taylor,146,169705587.0,The Help,2011,USA,25000000.0,8.1,75000,Drama,sin_genero,sin_genero,sin_genero,sin_genero,Emma Stone,Bryce Dallas Howard,Mike Vogel
+39,Francis Lawrence,146,424645577.0,The Hunger Games: Catching Fire,2013,USA,130000000.0,7.6,82000,Adventure,Sci-Fi,Thriller,sin_genero,sin_genero,Jennifer Lawrence,Josh Hutcherson,Sandra Ellis Lafferty
+40,Steven Spielberg,146,79883359.0,War Horse,2011,usa,66000000.0,7.2,28000,Drama,War,sin_genero,sin_genero,sin_genero,Jeremy Irvine,Benedict Cumberbatch,Eddie Marsan
+41,Michael Bay,144,52822418.0,13 Hours,2016,USA,50000000.0,7.4,44000,Action,Drama,Thriller,War,sin_genero,Toby Stephens,James Badge Dale,David Costabile
+42,Guillaume Canet,144,41229.0,Blood Ties,2013,France,25500000.0,6.5,0,Crime,Drama,Thriller,sin_genero,sin_genero,Mila Kunis,Lili Taylor,Billy Crudup
+43,Paul Thomas Anderson,144,16377274.0,The Master,2012,USA,32000000.0,7.1,27000,Drama,sin_genero,sin_genero,sin_genero,sin_genero,Mike Howard,Jeffrey W. Jenkins,Bruce Goodchild
+44,Bryan Singer,144,154985087.0,X-Men: Apocalypse,2016,USA,178000000.0,7.3,54000,Action,Adventure,Sci-Fi,sin_genero,sin_genero,Jennifer Lawrence,Michael Fassbender,Tye Sheridan
+45,Adam McKay,143,2175312.0,Anchorman 2: The Legend Continues,2013,USA,50000000.0,6.3,41000,Comedy,sin_genero,sin_genero,sin_genero,sin_genero,Harrison Ford,Will Ferrell,Steve Carell
+46,Zack Snyder,143,291021565.0,Man of Steel,2013,USA,225000000.0,7.2,118000,Action,Adventure,Fantasy,Sci-Fi,sin_genero,Henry Cavill,Christopher Meloni,Harry Lennix
+47,Sam Mendes,143,304360277.0,Skyfall,2012,UK,200000000.0,7.8,80000,Action,Adventure,Thriller,sin_genero,sin_genero,Albert Finney,Helen McCrory,Rory Kinnear
+48,Baz Luhrmann,143,144812796.0,The Great Gatsby,2013,Australia,105000000.0,7.3,115000,Drama,Romance,sin_genero,sin_genero,sin_genero,Leonardo DiCaprio,Elizabeth Debicki,Steve Bisley
+49,sin_director,143,147788552.0,The Ridges,2011,USA,17350.0,3.0,33,Drama,Horror,Thriller,sin_genero,sin_genero,Robbie Barnes,Alana Kaniewski,Brandon Landers
+50,Steven Spielberg,142,72306065.0,Bridge of Spies,2015,USA,40000000.0,7.6,55000,Drama,History,Thriller,sin_genero,sin_genero,Tom Hanks,Mark Rylance,Amy Ryan
+51,Marc Webb,142,202853933.0,The Amazing Spider-Man 2,2014,USA,200000000.0,6.7,41000,Action,Adventure,Fantasy,Sci-Fi,sin_genero,Emma Stone,Andrew Garfield,B.J. Novak
+52,sin_director,142,407999255.0,The Hunger Games,2012,USA,78000000.0,7.3,140000,Adventure,Drama,Sci-Fi,Thriller,sin_genero,Jennifer Lawrence,Josh Hutcherson,Anthony Reynolds
+53,Joss Whedon,141,458991599.0,Avengers: Age of Ultron,2015,USA,250000000.0,7.5,118000,Action,Adventure,Sci-Fi,sin_genero,sin_genero,Chris Hemsworth,Robert Downey Jr.,Scarlett Johansson
+54,Timur Bekmambetov,141,147788552.0,Ben-Hur,2016,USA,100000000.0,6.1,0,Adventure,Drama,History,sin_genero,sin_genero,Morgan Freeman,Ayelet Zurer,Moises Arias
+55,Timur Bekmambetov,141,147788552.0,Ben-Hur,2016,USA,100000000.0,6.0,0,Adventure,Drama,History,sin_genero,sin_genero,Morgan Freeman,Ayelet Zurer,Moises Arias
+56,Justin Chadwick,141,8324748.0,Mandela: Long Walk to Freedom,2013,UK,35000000.0,7.1,13000,Biography,Drama,History,sin_genero,sin_genero,Terry Pheto,Fana Mokoena,Tony Kgoroge
+57,Oliver Stone,141,47307550.0,Savages,2012,USA,45000000.0,6.5,28000,Crime,Drama,Thriller,sin_genero,sin_genero,Demián Bichir,Shea Whigham,Gary Stretch
+58,David Dobkin,141,47105085.0,The Judge,2014,USA,50000000.0,7.4,47000,Crime,Drama,sin_genero,sin_genero,sin_genero,Robert Downey Jr.,Robert Duvall,Leighton Meester
+59,Ryan Murphy,140,80574010.0,Eat Pray Love,2010,USA,60000000.0,5.7,26000,Drama,Romance,sin_genero,sin_genero,sin_genero,James Franco,Julia Roberts,Billy Crudup
+60,James Wan,140,350034110.0,Furious 7,2015,USA,190000000.0,7.2,94000,Action,Crime,Thriller,sin_genero,sin_genero,Jason Statham,Paul Walker,Vin Diesel
+61,Derek Cianfrance,140,21383298.0,The Place Beyond the Pines,2012,USA,15000000.0,7.3,47000,Crime,Drama,Thriller,sin_genero,sin_genero,Ryan Gosling,Ben Mendelsohn,Angelo Anthony Pizza
+62,Gavin O'Connor,140,13651662.0,Warrior,2011,USA,25000000.0,8.2,77000,Drama,Sport,sin_genero,sin_genero,sin_genero,Tom Hardy,Frank Grillo,Kevin Dunn
+63,sin_director,139,150832203.0,Divergent,2014,USA,85000000.0,6.7,49000,Adventure,Mystery,Sci-Fi,sin_genero,sin_genero,Kate Winslet,Theo James,Mekhi Phifer
+64,Gary Ross,139,20389967.0,Free State of Jones,2016,USA,50000000.0,6.7,10000,Action,Biography,Drama,History,War,Matthew McConaughey,Donald Watkins,Jessica Collins
+65,Tate Taylor,139,30513940.0,Get on Up,2014,USA,30000000.0,6.9,11000,Biography,Drama,Music,sin_genero,sin_genero,Tika Sumpter,Josh Hopkins,Aunjanue Ellis
+66,Terrence Malick,139,13303319.0,The Tree of Life,2011,USA,32000000.0,6.7,39000,Drama,Fantasy,sin_genero,sin_genero,sin_genero,Brad Pitt,Tye Sheridan,Fiona Shaw
+67,sin_director,138,150117807.0,American Hustle,2013,USA,40000000.0,7.3,63000,Crime,Drama,sin_genero,sin_genero,sin_genero,Jennifer Lawrence,Christian Bale,Bradley Cooper
+68,Robert Zemeckis,138,93749203.0,Flight,2012,USA,31000000.0,7.3,64000,Drama,Thriller,sin_genero,sin_genero,sin_genero,Denzel Washington,Bruce Greenwood,Nadine Velazquez
+69,Darren Aronofsky,138,101160529.0,Noah,2014,USA,125000000.0,5.8,71000,Action,Adventure,Drama,sin_genero,sin_genero,Anthony Hopkins,Emma Watson,Logan Lerman
+70,Martin Scorsese,138,127968405.0,Shutter Island,2010,USA,80000000.0,8.1,53000,Mystery,Thriller,sin_genero,sin_genero,sin_genero,Leonardo DiCaprio,Joseph Sikora,Nellie Sciutto
+71,Ridley Scott,138,16969390.0,The Counselor,2013,USA,25000000.0,5.3,24000,Crime,Drama,Thriller,sin_genero,sin_genero,Michael Fassbender,Brad Pitt,Goran Visnjic
+72,James Mangold,138,132550960.0,The Wolverine,2013,USA,120000000.0,6.7,68000,Action,Adventure,Sci-Fi,Thriller,sin_genero,Hugh Jackman,Tao Okamoto,Rila Fukushima
+73,Daniel Espinosa,137,1206135.0,Child 44,2015,Czech Republic,50000000.0,6.4,18000,Crime,Drama,Thriller,sin_genero,sin_genero,Tom Hardy,Fares Fares,Michael Nardone
+74,sin_director,137,37304950.0,J. Edgar,2011,USA,35000000.0,6.6,16000,Biography,Crime,Drama,sin_genero,sin_genero,Leonardo DiCaprio,Naomi Watts,Kaitlyn Dever
+75,Walter Salles,137,717753.0,On the Road,2012,France,25000000.0,6.1,27000,Adventure,Drama,sin_genero,sin_genero,sin_genero,Kristen Stewart,Viggo Mortensen,Kirsten Dunst
+76,sin_director,137,281666058.0,The Hunger Games: Mockingjay - Part 2,2015,USA,160000000.0,6.6,38000,Adventure,Sci-Fi,sin_genero,sin_genero,sin_genero,Jennifer Lawrence,Philip Seymour Hoffman,Josh Hutcherson
+77,Angelina Jolie Pitt,137,115603980.0,Unbroken,2014,USA,65000000.0,7.2,35000,Biography,Drama,Sport,War,sin_genero,Finn Wittrock,Jack O'Connell,Alex Russell
+78,Angelina Jolie Pitt,137,115603980.0,Unbroken,2014,USA,65000000.0,7.2,35000,Biography,Drama,Sport,War,sin_genero,Finn Wittrock,Jack O'Connell,Alex Russell
+79,Seth MacFarlane,136,42615685.0,A Million Ways to Die in the West,2014,USA,40000000.0,6.1,24000,Comedy,Western,sin_genero,sin_genero,sin_genero,Liam Neeson,Charlize Theron,Seth MacFarlane
+80,Anthony Russo,136,259746958.0,Captain America: The Winter Soldier,2014,usa,170000000.0,7.8,55000,Action,Adventure,Sci-Fi,sin_genero,sin_genero,Scarlett Johansson,Chris Evans,Hayley Atwell
+81,Rob Marshall,136,241063875.0,Pirates of the Caribbean: On Stranger Tides,2011,USA,250000000.0,6.7,58000,Action,Adventure,Fantasy,sin_genero,sin_genero,Johnny Depp,Sam Claflin,Stephen Graham
+82,Adam Shankman,136,38509342.0,Rock of Ages,2012,USA,75000000.0,5.9,33000,Comedy,Drama,Musical,Romance,sin_genero,James Martin Kelly,Shane Hartline,Celina Beach
+83,sin_director,136,52474616.0,Wall Street: Money Never Sleeps,2010,USA,70000000.0,6.3,13000,Drama,sin_genero,sin_genero,sin_genero,sin_genero,Frank Langella,Austin Pendleton,John Buffalo Mailer
+84,Sadyk Sher-Niyaz,135,147788552.0,Queen of the Mountains,2014,Kyrgyzstan,1400000.0,8.7,0,Action,Biography,Drama,History,sin_genero,Elina Abai Kyzy,Aziz Muradillayev,Mirlan Abdulayev
+85,Tony Gilroy,135,113165635.0,The Bourne Legacy,2012,USA,125000000.0,6.7,31000,Action,Adventure,Thriller,sin_genero,sin_genero,Jeremy Renner,Scott Glenn,Stacy Keach
+86,Steve McQueen,134,56667870.0,12 Years a Slave,2013,USA,20000000.0,8.1,83000,Biography,Drama,History,sin_genero,sin_genero,Quvenzhané Wallis,Scoot McNairy,Taran Killam
+87,Richard J. Lewis,134,7501404.0,Barney's Version,2010,Canada,70000000.0,7.3,0,Comedy,Drama,sin_genero,sin_genero,sin_genero,Mark Addy,Atom Egoyan,Paul Gross
+88,Paul Greengrass,134,107100855.0,Captain Phillips,2013,USA,55000000.0,7.9,65000,Biography,Drama,Thriller,sin_genero,sin_genero,Tom Hanks,Chris Mulkey,Michael Chernus
+89,David Ayer,134,85707116.0,Fury,2014,USA,68000000.0,7.6,82000,Action,Drama,War,sin_genero,sin_genero,Brad Pitt,Logan Lerman,Jim Parrack
+90,Clint Eastwood,140,47034272.0,Jersey Boys,2014,USA,40000000.0,6.9,16000,Biography,Drama,Music,Musical,sin_genero,Johnny Cannizzaro,Steve Schirripa,Scott Vance
